@@ -4,4 +4,7 @@ some text
 
 ## tasks
 
-<B>some tasks</b>
+### some tasks
+
+* task1
+* task2
